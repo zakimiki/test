@@ -1,0 +1,91 @@
+header{
+	width:100%;
+	height:60px;
+	background-color:black;
+  }
+
+header ul{
+	float:left;
+	color:white;
+	padding-left:10px;
+	font-size:24px;
+}
+
+header ul li{
+    float:left;
+	list-style:none;
+	margin-right:40px;
+}
+
+.left{
+    float:left;
+    width: 70%;
+	font-size:30px;
+	}
+
+
+h3{
+    border-bottom:3px solid black;
+	border-left:3px solid gray;
+}
+
+.time img{
+    clear: left;
+    width:2%;
+    }
+.time{
+    font-size:15px;
+    margin-top:-20px;
+}
+
+.bookstore img{
+    margin-top:20px;
+    width:100%;
+}
+
+.box{
+    width:100%;
+    background-color:lightgray;
+    text-align: center; 
+    margin-bottom: 40px;
+}
+.box .picture{
+    width:24%;
+    display:inline-block;
+}
+.picture img{
+    width:90%;
+    margin:20px 10px -10px 10px;
+}
+p{
+    font-size:15px;
+}
+.right{
+    margin: 55px 0 0 5%;
+    width: 25%;
+    float:left;
+}
+
+h5{
+    font-size:20px;
+}
+h6{
+    font-size:20px;
+    margin:0 ;
+    border-bottom:1px dotted black;   
+    }
+
+main{
+    clear:both;
+}
+footer{
+     clear:left;
+     width:100%;
+     height:60px;
+     bottom:0px;
+     left:0px;
+     color:white;
+     background-color:black;
+     text-align: center;
+     line-height: 60px;
+}
